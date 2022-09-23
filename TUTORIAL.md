@@ -6,7 +6,7 @@
 - [x] Player
 - [x] First person view
 - [x] Gravity
-- [] Movement
+- [x] Movement
 - [] State management
 - [] Cubes
 - [] Cube type selector
