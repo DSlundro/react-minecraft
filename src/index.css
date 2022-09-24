@@ -56,18 +56,16 @@ body {
 
 .texture-selector{
   transform: scale(7);
-  top: 90%;
-}
-
-.texture-selector img{
+  top: 40px;
+  left: 750px;
 }
 
 .texture-selector img.active{
-  border: 0.05rem solid red;
+  border: 1px solid lightgray;
 }
 
 .menu {
-  top: 10px;
-  left: 130px;
+  top: 45px;
+  left: 200px;
   transform: scale(3)
 }
