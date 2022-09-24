@@ -65,3 +65,9 @@ body {
 .texture-selector img.active{
   border: 0.05rem solid red;
 }
+
+.menu {
+  top: 10px;
+  left: 130px;
+  transform: scale(3)
+}
