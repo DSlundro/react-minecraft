@@ -60,9 +60,7 @@ export const Player = () => {
     })
 
     return (
-        <mesh ref={ref}>
-
-        </mesh>
+        <mesh ref={ref}></mesh>
     )
 
 }
