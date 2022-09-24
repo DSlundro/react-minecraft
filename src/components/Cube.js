@@ -12,7 +12,6 @@ export const Cube = ({position, texture}) => {
     const [addCube, removeCube] = useStore((state) => [state.addCube, state.removeCube])
 
     const activeTexture = textures[texture + 'Texture']
-    console.log('activeTexture', activeTexture);
 
     return (
         <mesh 

@@ -5,6 +5,7 @@ import { Cubes } from './components/Cubes';
 import { FVP } from './components/FPV';
 import { Ground } from './components/Ground';
 import { Player } from './components/Player';
+import { TextureSelector } from './components/TextureSelector';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         </Physics>
       </Canvas>
       <div className='absolute cursor centered'>+</div>
+      <TextureSelector />
     </>
   );
 }
