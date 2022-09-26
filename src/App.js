@@ -25,6 +25,9 @@ function App() {
       <div className='absolute cursor centered'>+</div>
       <TextureSelector />
       <Menu />
+      <div className='absolute delete'>
+        <p>Delete Box (ALT + Click)</p>
+      </div>
     </>
   );
 }

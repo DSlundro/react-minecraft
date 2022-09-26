@@ -69,3 +69,9 @@ body {
   left: 70px;
   transform: scale(1.5);
 }
+
+.delete{
+  font-size: 20px;
+  top: 25px;
+  right: 50px;
+}

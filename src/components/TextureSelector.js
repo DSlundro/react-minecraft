@@ -1,5 +1,5 @@
 
-import { useState, useEffect } from 'react';
+import {  useEffect } from 'react';
 import { useKeyboard } from './../hooks/useKeyboard';
 import { useStore } from './../hooks/useStore';
 import { dirtImg, glassImg, grassImg, woodImg, logImg } from '../images/images';
